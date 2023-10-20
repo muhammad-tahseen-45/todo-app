@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    
+    text-align: center;
+    background-image: url(./depositphotos_424262182-stock-photo-white-empty-paper-sheet-tape.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 100% 100% 100%;
+    
+    
+    background-size: cover;
+}
+
+.container{
+     
+     margin-top: 45px;
+    
+}
+input{
+    
+    color: white;
+    font-size: large;
+    width: 300px;
+    height: 25px;
+   background-color: white;
+    background: none;
+  
+    
+}
+
+input:focus{
+    outline: none;
+   border: 2px solid black;
+   border-left: none;
+   border-right: none;
+   border-top: none;
+}
+input:hover{
+    border-color: white;
+}
+
+.btn{
+    margin: 10px;
+    margin-top: 10px;
+    width: 90px;
+    text-transform: uppercase;
+    color: black;
+    background-color: lightgrey;
+    font-weight: bold;
+    height: 40px;
+    
+}
+.btn:hover{
+    background-color: #592C0C;
+    color: white;
+    border-radius: 25px;
+}
+
+.main{
+    margin-top: 150px;
+    text-align: center;
+   
+}
+
+button{
+    margin: 10px;
+    width: 40px;
+    background-color: #592C0C;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+     
+    
+}
+button:hover{
+    background-color:white;
+    color: #592C0C;
+    border-radius: 5px;
+
+
+}
+
+li{
+    font-family:sans-serif;
+    list-style: none;
+    font-size: large;
+   
+}
+
+
+
+
+
